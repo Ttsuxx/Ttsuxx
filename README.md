@@ -1,4 +1,14 @@
 ### Hi there 👋
+✨So nice to meet you~
+
+You can call me Ttsuxx or tちゃん.
+
+🔭 I’m interested in language(human&programming) learning.
+
+*ABOUT ME* which is written in Chinese is [here](https://ttsuxx.cc/about/). 
+
+Later on I will add Japanese and Thai versions.
+
 
 <!--
 **Ttsuxx/Ttsuxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
